@@ -20,7 +20,6 @@ Code-style/Standard
 ---
 # Site Logo:
 
-![Horiseon Logo](2020-12-10-23-10-41.png)
 
 ---
 
