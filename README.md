@@ -19,7 +19,7 @@ Code-style/Standard
 
 ---
 # Site Logo:
-![Webpage Opening](../images/digital-marketing-meeting.jpg)
+![Webpage Opening](./images/digital-marketing-meeting.jpg)
 
 ---
 
